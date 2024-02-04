@@ -1,0 +1,20 @@
+git push_ push changes to remote repo
+git push origin_ to check remote branch
+git reset_ use to return the entire working tree to the last committed state
+git fetch_ it helps to gather any commit from the target branch that does not exist in current branch and stirit in local repo
+git rebase_ is the process of moving and combining a sequence of commits to a new base commit
+git diff_ is a function that takes two input datasets and out puts the changes between them 
+git remote_ is use to push code to the central repo of the project 
+git init_ to initialize a git repo for the local project
+git merge_ is use to synchronize the branch with the parent branch
+git revert_ its use to undo changes we made
+git commit_ its use to save changes
+git status_ it gives necessary information about current Branch 
+git add_ to add latesr or newest files or folders
+git pull_ use to update local repo to the newest commit
+git push origin delete_ use for the deleting of remote branch
+git stash_ is use to save work without staging or committing the code to git repo and want to switch between branches
+git log_ it helps to examine the detailed log of every commit in repo
+git checkout _ it helps to switch to an existing branch within the repo, it enables to add new files and avle to commit the files
+git branch_ it helps different collaborators to work independently on their respective branches, making changes and commit without affecting the main branch
+git clone_ its use to import or download files of a project from the remote repo to local system
