@@ -1,0 +1,4 @@
+How to install git on local machine
+Download git installer, follow the prompts to instal
+open a terminal and verify the installation
+configure your username and email using commands
